@@ -41,7 +41,7 @@ while ans:
     elif ans=="2":
       print("\n You are about to get to the next stage of your sadness and you are very close to the end of your suffering") 
       print("\n Buddha says you must do a sport below or similar activity that is only if you can physically do it without injuries or sickness")
-      print("\n\n Budda says you should " + random.choice(sports))
+      print("\n Budda says you should " + random.choice(sports))
     elif ans=="3":
       print("\n Get lot's of ecercise. Anger is simply mischanneled energy and is a normal part of life. Do not let your anger provoke negative actions or thoughts or messages. \n\n End the cycle by running this many steps ")
       print random.randrange(a, b)
@@ -49,7 +49,7 @@ while ans:
       print("\n Good, being happy is so close so be happy. Here is something you should try. Do something you love or get a new hoby to try. ") 
     elif ans=="5":
       print("\n Buddha says to keep a clear mind. You must drink water, and do more sports.")
-      print("\n\n Budda says you should try " + random.choice(sports)) 
+      print("\n Budda says you should try " + random.choice(sports)) 
     elif ans !="":
       print("\n Not Valid Choice Try again") 
 
