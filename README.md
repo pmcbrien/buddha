@@ -1,1 +1,1 @@
-# buddha
+# bp.py is a Bussha bot that asks you about your current state of mind, and then tells you your activity to overcome negative thoughts associated with normal life. Are positive ions better than negative ions? Not usually for the body, but positive thinking is surely better for your mind than negative thinking. This buddha bot loves sports, so get ready to exercise.
