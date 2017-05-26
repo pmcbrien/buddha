@@ -34,7 +34,7 @@ while ans:
     """)
     ans=raw_input("What are you feeling now? ") 
     if ans:
-    	print "\n\n"
+    	print "\n"
 	print "Buddha says " + random.choice(fortunes)
     if ans=="1": 
       print("\n Get exercise and get to nirvana by helping others") 
