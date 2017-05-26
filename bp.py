@@ -4,25 +4,25 @@ ans=True
 a=100
 b=8000
 
-sports = [  "cycling or running",
-			"fishing or swimming or anything involving fluid but no inoxicants",
-			"mountaineering, climbing or walking with an obstacle to overcome",
-			"cross country or downhill skiing, snowboarding or anything with a hill involved that you must climb over and overcome",
-			"tennis or something with a ball you must smash",
-			"archery or something you must hit a target. dont stop until the target is hit in the sweet spot",
-			"fly a kite"]
+sports = [  	"cycling or running",
+		"fishing or swimming or anything involving fluid but no inoxicants",
+		"mountaineering, climbing or walking with an obstacle to overcome",
+		"cross country or downhill skiing, snowboarding or anything with a hill involved that you must climb over and overcome",
+		"tennis or something with a ball you must smash",
+		"archery or something you must hit a target. dont stop until the target is hit in the sweet spot",
+		"fly a kite"]
 
-fortunes = ["What we think we become",
-			"Waste Not Want Not",
-			"Do not dwell in the past, do not dream of the future, concentrate the mind on the present",
-			"Plant something today",
-			"Good things come to those who wait.",
-            "Patience is a virtue.",
-            "The early bird gets the worm.",
-            "A wise man once said, everything in its own time and place.",
-            "Fortune cookies rarely share fortunes.",
-            "We are shaped by our thoughts",
-            "money, it is stupid"]
+fortunes = [	"What we think we become",
+		"Waste Not Want Not",
+		"Do not dwell in the past, do not dream of the future, concentrate the mind on the present",
+		"Plant something today",
+		"Good things come to those who wait.",
+		"Patience is a virtue.",
+		"The early bird gets the worm.",
+		"A wise man once said, everything in its own time and place.",
+		"Fortune cookies rarely share fortunes.",
+		"We are shaped by our thoughts",
+		"money, it is stupid"]
 
 while ans:
     print ("""
